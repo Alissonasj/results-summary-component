@@ -60,6 +60,7 @@ body {
 
 .section {
     padding: 1rem;
+
 }
 
 /* SUMMARY */
@@ -166,6 +167,8 @@ body {
         grid-row: 1;
         justify-self: center;
         display: flex;
+        box-shadow: 0 0 2rem;
+        border-radius: 2rem;
     }
 
     .t-container {
